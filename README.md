@@ -1,2 +1,2 @@
-# MaCCApps
-Repository for MaCCOS Apps
+# MAS
+Repository for MaCCOS App Store
