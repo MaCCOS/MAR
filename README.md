@@ -1,2 +1,2 @@
-# MAS
-Repository for MaCCOS App Store
+# MAR
+MaCCOS App Repository
